@@ -62,8 +62,7 @@ header{
 .btn-gold:hover{background:#e5b876;}
 .btn-outline{border:1px solid var(--gold);color:var(--gold);}
 .btn-dark{background:#1c1a17;color:var(--text);}
-.arrow{width:20px;height:20px;border-radius:50%;background:#000;color:var(--gold);display:inline-flex;align-items:center;justify-content:center;font-size:11px;}
-.btn-gold .arrow{background:#000;color:var(--gold);}
+.arrow{display:inline-flex;font-size:1em;line-height:1;}
 
 .nav-toggle{
   display:none;background:none;border:1px solid var(--line);color:var(--text);

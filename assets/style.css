@@ -62,7 +62,6 @@ header{
 .btn-gold:hover{background:#e5b876;}
 .btn-outline{border:1px solid var(--gold);color:var(--gold);}
 .btn-dark{background:#1c1a17;color:var(--text);}
-.arrow{display:inline-flex;font-size:1em;line-height:1;color:#fff;}
 
 .nav-toggle{
   display:none;background:none;border:1px solid var(--line);color:var(--text);
